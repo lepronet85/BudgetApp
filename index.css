@@ -1,0 +1,9 @@
+.notif {
+    width: 400px;
+    right: 20px;
+    top: 20px;
+}
+
+.notif-title {
+    background-color: #5f9da0;
+}
